@@ -1,0 +1,6 @@
+{
+    "exec": "node -r ts-node/register/transpile-only",
+    "watch": [
+      "src/**/*.ts"
+    ]
+  }
